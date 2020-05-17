@@ -1,0 +1,7 @@
+name: StaffChat
+author: Ayham
+version: 1.0.0
+main: ayham.staffchat.Main
+commands:
+    staffchat:
+        description: Adds a staffchat.
